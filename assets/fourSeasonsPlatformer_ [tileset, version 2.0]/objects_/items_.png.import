@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clvg0ldf2bodt"
-path="res://.godot/imported/items_.png-c2ed4adea245978724aecce3d0e2ce69.ctex"
+path="res://.godot/imported/items_.png-bfddc28f84949284b7f046756b137d7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fourSeasonsPlatformer_ [tileset, version 2.0]/objects_/items_.png"
-dest_files=["res://.godot/imported/items_.png-c2ed4adea245978724aecce3d0e2ce69.ctex"]
+source_file="res://assets/fourSeasonsPlatformer_ [tileset, version 2.0]/objects_/items_.png"
+dest_files=["res://.godot/imported/items_.png-bfddc28f84949284b7f046756b137d7f.ctex"]
 
 [params]
 

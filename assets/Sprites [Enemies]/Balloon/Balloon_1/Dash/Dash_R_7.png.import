@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdee5q6ls24kt"
-path="res://.godot/imported/Dash_R_7.png-c8511babd7e2e1bb19c6e750e847fd5a.ctex"
+path="res://.godot/imported/Dash_R_7.png-a384519a5721ac5e9f1130ad638654dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Balloon/Balloon_1/Dash/Dash_R_7.png"
-dest_files=["res://.godot/imported/Dash_R_7.png-c8511babd7e2e1bb19c6e750e847fd5a.ctex"]
+source_file="res://assets/Sprites [Enemies]/Balloon/Balloon_1/Dash/Dash_R_7.png"
+dest_files=["res://.godot/imported/Dash_R_7.png-a384519a5721ac5e9f1130ad638654dd.ctex"]
 
 [params]
 

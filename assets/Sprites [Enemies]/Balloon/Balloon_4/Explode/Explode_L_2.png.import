@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ijskkxaibfq8"
-path="res://.godot/imported/Explode_L_2.png-addf169ca7da34b180a1a4520fac0600.ctex"
+path="res://.godot/imported/Explode_L_2.png-199e217249d13bd88055fa83c203a98a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Balloon/Balloon_4/Explode/Explode_L_2.png"
-dest_files=["res://.godot/imported/Explode_L_2.png-addf169ca7da34b180a1a4520fac0600.ctex"]
+source_file="res://assets/Sprites [Enemies]/Balloon/Balloon_4/Explode/Explode_L_2.png"
+dest_files=["res://.godot/imported/Explode_L_2.png-199e217249d13bd88055fa83c203a98a.ctex"]
 
 [params]
 

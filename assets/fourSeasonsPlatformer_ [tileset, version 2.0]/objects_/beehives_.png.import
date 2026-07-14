@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dguo45815drp8"
-path="res://.godot/imported/beehives_.png-2ac956d08eb52568a31cac913e8f0595.ctex"
+path="res://.godot/imported/beehives_.png-64c5f559a97a85af0e4a555b098a9a18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fourSeasonsPlatformer_ [tileset, version 2.0]/objects_/beehives_.png"
-dest_files=["res://.godot/imported/beehives_.png-2ac956d08eb52568a31cac913e8f0595.ctex"]
+source_file="res://assets/fourSeasonsPlatformer_ [tileset, version 2.0]/objects_/beehives_.png"
+dest_files=["res://.godot/imported/beehives_.png-64c5f559a97a85af0e4a555b098a9a18.ctex"]
 
 [params]
 

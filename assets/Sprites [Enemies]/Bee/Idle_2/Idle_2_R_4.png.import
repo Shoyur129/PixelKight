@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyq3b3on0lwgo"
-path="res://.godot/imported/Idle_2_R_4.png-4c05aa03fd2087b567e1495a5782e5b5.ctex"
+path="res://.godot/imported/Idle_2_R_4.png-5bd35073d3f3841bd77585449d123b34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bee/Idle_2/Idle_2_R_4.png"
-dest_files=["res://.godot/imported/Idle_2_R_4.png-4c05aa03fd2087b567e1495a5782e5b5.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bee/Idle_2/Idle_2_R_4.png"
+dest_files=["res://.godot/imported/Idle_2_R_4.png-5bd35073d3f3841bd77585449d123b34.ctex"]
 
 [params]
 

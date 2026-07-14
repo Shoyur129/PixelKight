@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8whbvnwqk7ao"
-path="res://.godot/imported/Attack_2_R_3.png-042c0bbf0ce68490ba0c38dad2aae15e.ctex"
+path="res://.godot/imported/Attack_2_R_3.png-da4f5d6caa91ab223786c38bae8ed846.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Cactus/Cactus_1/Attack_2/Attack_2_R_3.png"
-dest_files=["res://.godot/imported/Attack_2_R_3.png-042c0bbf0ce68490ba0c38dad2aae15e.ctex"]
+source_file="res://assets/Sprites [Enemies]/Cactus/Cactus_1/Attack_2/Attack_2_R_3.png"
+dest_files=["res://.godot/imported/Attack_2_R_3.png-da4f5d6caa91ab223786c38bae8ed846.ctex"]
 
 [params]
 

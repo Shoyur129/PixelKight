@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbite3vudqbkw"
-path="res://.godot/imported/Idle_1_U.png-ec9d98845937651ea20a3d8a50d6abb0.ctex"
+path="res://.godot/imported/Idle_1_U.png-b0e4b1853cc4751843520ef0d47270b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Brickhead/Brickhead_4/Idle_1/Idle_1_U.png"
-dest_files=["res://.godot/imported/Idle_1_U.png-ec9d98845937651ea20a3d8a50d6abb0.ctex"]
+source_file="res://assets/Sprites [Enemies]/Brickhead/Brickhead_4/Idle_1/Idle_1_U.png"
+dest_files=["res://.godot/imported/Idle_1_U.png-b0e4b1853cc4751843520ef0d47270b9.ctex"]
 
 [params]
 

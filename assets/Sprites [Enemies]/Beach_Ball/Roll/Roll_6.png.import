@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c28qc5lyyo62a"
-path="res://.godot/imported/Roll_6.png-2af1239e8ca17b1d11882d3848009eb0.ctex"
+path="res://.godot/imported/Roll_6.png-f4df7cad86b84d6868d83380ed9fbc8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Beach_Ball/Roll/Roll_6.png"
-dest_files=["res://.godot/imported/Roll_6.png-2af1239e8ca17b1d11882d3848009eb0.ctex"]
+source_file="res://assets/Sprites [Enemies]/Beach_Ball/Roll/Roll_6.png"
+dest_files=["res://.godot/imported/Roll_6.png-f4df7cad86b84d6868d83380ed9fbc8d.ctex"]
 
 [params]
 

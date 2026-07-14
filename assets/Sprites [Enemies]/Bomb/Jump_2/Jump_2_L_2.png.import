@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kplsflfb0hst"
-path="res://.godot/imported/Jump_2_L_2.png-c45c8d6c6786113601bbb1682f927381.ctex"
+path="res://.godot/imported/Jump_2_L_2.png-6620990a2103de3e8dc24121a920eb42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bomb/Jump_2/Jump_2_L_2.png"
-dest_files=["res://.godot/imported/Jump_2_L_2.png-c45c8d6c6786113601bbb1682f927381.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bomb/Jump_2/Jump_2_L_2.png"
+dest_files=["res://.godot/imported/Jump_2_L_2.png-6620990a2103de3e8dc24121a920eb42.ctex"]
 
 [params]
 

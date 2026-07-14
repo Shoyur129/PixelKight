@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxkdlbd7ts5ja"
-path="res://.godot/imported/Attack_2_1_2.png-d39ca8cacf9ee8988e0b6ee61e9088f4.ctex"
+path="res://.godot/imported/Attack_2_1_2.png-89948cf58a2f6d2aa2672c9b4ab6e2e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Beach_Ball/Attack_2/Attack_2_1/Attack_2_1_2.png"
-dest_files=["res://.godot/imported/Attack_2_1_2.png-d39ca8cacf9ee8988e0b6ee61e9088f4.ctex"]
+source_file="res://assets/Sprites [Enemies]/Beach_Ball/Attack_2/Attack_2_1/Attack_2_1_2.png"
+dest_files=["res://.godot/imported/Attack_2_1_2.png-89948cf58a2f6d2aa2672c9b4ab6e2e9.ctex"]
 
 [params]
 

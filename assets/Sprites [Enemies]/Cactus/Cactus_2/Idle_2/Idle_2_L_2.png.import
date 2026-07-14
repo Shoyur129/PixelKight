@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbr1qqbakac0v"
-path="res://.godot/imported/Idle_2_L_2.png-2cc47e2fe89ac70f1c066d4d5e75fb0d.ctex"
+path="res://.godot/imported/Idle_2_L_2.png-cd7d66caf28b7b5ffbd7f13f16aaac8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Cactus/Cactus_2/Idle_2/Idle_2_L_2.png"
-dest_files=["res://.godot/imported/Idle_2_L_2.png-2cc47e2fe89ac70f1c066d4d5e75fb0d.ctex"]
+source_file="res://assets/Sprites [Enemies]/Cactus/Cactus_2/Idle_2/Idle_2_L_2.png"
+dest_files=["res://.godot/imported/Idle_2_L_2.png-cd7d66caf28b7b5ffbd7f13f16aaac8f.ctex"]
 
 [params]
 

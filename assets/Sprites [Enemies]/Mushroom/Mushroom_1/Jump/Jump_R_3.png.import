@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bia8hqntj2x81"
-path="res://.godot/imported/Jump_R_3.png-645ebe2899fe00a50724f0282274731d.ctex"
+path="res://.godot/imported/Jump_R_3.png-df3042388722704a9d9f194b4a684740.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Mushroom/Mushroom_1/Jump/Jump_R_3.png"
-dest_files=["res://.godot/imported/Jump_R_3.png-645ebe2899fe00a50724f0282274731d.ctex"]
+source_file="res://assets/Sprites [Enemies]/Mushroom/Mushroom_1/Jump/Jump_R_3.png"
+dest_files=["res://.godot/imported/Jump_R_3.png-df3042388722704a9d9f194b4a684740.ctex"]
 
 [params]
 

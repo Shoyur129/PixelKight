@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyj408cpd42sj"
-path="res://.godot/imported/Turn_2_R_4.png-e6bbdc0abb0e70d380cdeda1ccc81635.ctex"
+path="res://.godot/imported/Turn_2_R_4.png-46b741f5707f17441207a6a1e67a843d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bomb/Turn_2/Turn_2_R_4.png"
-dest_files=["res://.godot/imported/Turn_2_R_4.png-e6bbdc0abb0e70d380cdeda1ccc81635.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bomb/Turn_2/Turn_2_R_4.png"
+dest_files=["res://.godot/imported/Turn_2_R_4.png-46b741f5707f17441207a6a1e67a843d.ctex"]
 
 [params]
 

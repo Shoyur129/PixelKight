@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmsbj4x40evii"
-path="res://.godot/imported/spring_.png-2225157cc2a1d18e9779c47be442cd26.ctex"
+path="res://.godot/imported/spring_.png-c9aea97536c10c8bf5bb0fc9c343813b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fourSeasonsPlatformer_ [tileset, version 2.0]/midground_/spring_.png"
-dest_files=["res://.godot/imported/spring_.png-2225157cc2a1d18e9779c47be442cd26.ctex"]
+source_file="res://assets/fourSeasonsPlatformer_ [tileset, version 2.0]/midground_/spring_.png"
+dest_files=["res://.godot/imported/spring_.png-c9aea97536c10c8bf5bb0fc9c343813b.ctex"]
 
 [params]
 

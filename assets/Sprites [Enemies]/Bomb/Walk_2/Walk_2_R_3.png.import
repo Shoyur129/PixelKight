@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c32f580ihonml"
-path="res://.godot/imported/Walk_2_R_3.png-3d44d0bf863750e4a6bf6b6639087154.ctex"
+path="res://.godot/imported/Walk_2_R_3.png-105c8c95cc86056ee9477bac71a5caf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bomb/Walk_2/Walk_2_R_3.png"
-dest_files=["res://.godot/imported/Walk_2_R_3.png-3d44d0bf863750e4a6bf6b6639087154.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bomb/Walk_2/Walk_2_R_3.png"
+dest_files=["res://.godot/imported/Walk_2_R_3.png-105c8c95cc86056ee9477bac71a5caf7.ctex"]
 
 [params]
 

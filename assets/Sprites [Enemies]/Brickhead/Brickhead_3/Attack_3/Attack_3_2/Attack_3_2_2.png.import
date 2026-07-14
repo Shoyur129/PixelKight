@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf4j1tbnn7me1"
-path="res://.godot/imported/Attack_3_2_2.png-50d99375dfcdc54e07c0df6134a036ce.ctex"
+path="res://.godot/imported/Attack_3_2_2.png-777aa5d062481a5f21df8d42b40e105e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Brickhead/Brickhead_3/Attack_3/Attack_3_2/Attack_3_2_2.png"
-dest_files=["res://.godot/imported/Attack_3_2_2.png-50d99375dfcdc54e07c0df6134a036ce.ctex"]
+source_file="res://assets/Sprites [Enemies]/Brickhead/Brickhead_3/Attack_3/Attack_3_2/Attack_3_2_2.png"
+dest_files=["res://.godot/imported/Attack_3_2_2.png-777aa5d062481a5f21df8d42b40e105e.ctex"]
 
 [params]
 

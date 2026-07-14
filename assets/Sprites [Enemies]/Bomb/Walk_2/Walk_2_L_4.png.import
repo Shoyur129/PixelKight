@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn4hogdenksps"
-path="res://.godot/imported/Walk_2_L_4.png-0535ec6e57ae3dc7f9cb90dd6885ef1d.ctex"
+path="res://.godot/imported/Walk_2_L_4.png-8b1c7a7f19f1431c003e7feb294d15e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bomb/Walk_2/Walk_2_L_4.png"
-dest_files=["res://.godot/imported/Walk_2_L_4.png-0535ec6e57ae3dc7f9cb90dd6885ef1d.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bomb/Walk_2/Walk_2_L_4.png"
+dest_files=["res://.godot/imported/Walk_2_L_4.png-8b1c7a7f19f1431c003e7feb294d15e2.ctex"]
 
 [params]
 

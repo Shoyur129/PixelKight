@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h2iy25mqt2tl"
-path="res://.godot/imported/Idle_1_L_1.png-e9a36dde1608a67f4d1dafb329e56b20.ctex"
+path="res://.godot/imported/Idle_1_L_1.png-36e028308e0d7ff5190e8ea7b88707ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Balloon/Balloon_2/Idle_1/Idle_1_L_1.png"
-dest_files=["res://.godot/imported/Idle_1_L_1.png-e9a36dde1608a67f4d1dafb329e56b20.ctex"]
+source_file="res://assets/Sprites [Enemies]/Balloon/Balloon_2/Idle_1/Idle_1_L_1.png"
+dest_files=["res://.godot/imported/Idle_1_L_1.png-36e028308e0d7ff5190e8ea7b88707ea.ctex"]
 
 [params]
 

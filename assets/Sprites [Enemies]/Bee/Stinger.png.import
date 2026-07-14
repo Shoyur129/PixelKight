@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6c7j2um85tuh"
-path="res://.godot/imported/Stinger.png-eefcb1b9a0aeea74a837f84e0e71ad6a.ctex"
+path="res://.godot/imported/Stinger.png-e45a0a04d1a2e9b9cbe1d5450f4e8050.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bee/Stinger.png"
-dest_files=["res://.godot/imported/Stinger.png-eefcb1b9a0aeea74a837f84e0e71ad6a.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bee/Stinger.png"
+dest_files=["res://.godot/imported/Stinger.png-e45a0a04d1a2e9b9cbe1d5450f4e8050.ctex"]
 
 [params]
 

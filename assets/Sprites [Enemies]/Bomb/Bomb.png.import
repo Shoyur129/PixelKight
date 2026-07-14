@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6bj5bw66sqf7"
-path="res://.godot/imported/Bomb.png-8d33ef885a0df81a00c2dfef530f57c6.ctex"
+path="res://.godot/imported/Bomb.png-1906a9fdd1b5eba4472a820955ec81aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites [Enemies]/Bomb/Bomb.png"
-dest_files=["res://.godot/imported/Bomb.png-8d33ef885a0df81a00c2dfef530f57c6.ctex"]
+source_file="res://assets/Sprites [Enemies]/Bomb/Bomb.png"
+dest_files=["res://.godot/imported/Bomb.png-1906a9fdd1b5eba4472a820955ec81aa.ctex"]
 
 [params]
 
