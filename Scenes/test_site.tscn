@@ -1,0 +1,170 @@
+[gd_scene format=3 uid="uid://drw12iysdy8xp"]
+
+[ext_resource type="PackedScene" uid="uid://c5nsyl575jvbl" path="res://Scenes/player.tscn" id="1_fke4t"]
+[ext_resource type="PackedScene" uid="uid://bulmo62efjja2" path="res://Scenes/slime.tscn" id="2_efns1"]
+[ext_resource type="PackedScene" uid="uid://ktnpksa7cjrk" path="res://Scenes/water_darkblue.tscn" id="3_efns1"]
+[ext_resource type="Texture2D" uid="uid://ca61cs3qykequ" path="res://assets/fourSeasonsPlatformer_ [tileset, version 2.0]/foreground_/foreground_.png" id="4_vhfxo"]
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_fke4t"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_cujbe"]
+texture = ExtResource("4_vhfxo")
+0:7/0 = 0
+1:7/0 = 0
+2:7/0 = 0
+3:7/0 = 0
+4:7/0 = 0
+5:7/0 = 0
+6:7/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_nhro7"]
+sources/0 = SubResource("TileSetAtlasSource_cujbe")
+
+[node name="Test site" type="Node2D" unique_id=216918666]
+
+[node name="Player" parent="." unique_id=1341055315 instance=ExtResource("1_fke4t")]
+position = Vector2(442, 386)
+
+[node name="Camera2D" type="Camera2D" parent="Player" unique_id=788527308]
+zoom = Vector2(3, 3)
+
+[node name="Slime" parent="." unique_id=1870647012 instance=ExtResource("2_efns1")]
+position = Vector2(493, 387)
+
+[node name="Slime2" parent="." unique_id=1795926544 instance=ExtResource("2_efns1")]
+position = Vector2(493, 368)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=530569512]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=811346543]
+position = Vector2(443, 432)
+shape = SubResource("WorldBoundaryShape2D_fke4t")
+
+[node name="water" type="Node2D" parent="." unique_id=755252499]
+
+[node name="Water" parent="water" unique_id=1534954606 instance=ExtResource("3_efns1")]
+position = Vector2(256, 442)
+scale = Vector2(2, 2)
+
+[node name="Water2" parent="water" unique_id=753602890 instance=ExtResource("3_efns1")]
+position = Vector2(272, 442)
+scale = Vector2(2, 2)
+
+[node name="Water3" parent="water" unique_id=306605483 instance=ExtResource("3_efns1")]
+position = Vector2(288, 442)
+scale = Vector2(2, 2)
+
+[node name="Water4" parent="water" unique_id=1024272426 instance=ExtResource("3_efns1")]
+position = Vector2(304, 442)
+scale = Vector2(2, 2)
+
+[node name="Water5" parent="water" unique_id=1614009280 instance=ExtResource("3_efns1")]
+position = Vector2(304, 442)
+scale = Vector2(2, 2)
+
+[node name="Water6" parent="water" unique_id=249732298 instance=ExtResource("3_efns1")]
+position = Vector2(320, 442)
+scale = Vector2(2, 2)
+
+[node name="Water7" parent="water" unique_id=985035924 instance=ExtResource("3_efns1")]
+position = Vector2(336, 442)
+scale = Vector2(2, 2)
+
+[node name="Water8" parent="water" unique_id=848275687 instance=ExtResource("3_efns1")]
+position = Vector2(352, 442)
+scale = Vector2(2, 2)
+
+[node name="Water9" parent="water" unique_id=464820649 instance=ExtResource("3_efns1")]
+position = Vector2(368, 442)
+scale = Vector2(2, 2)
+
+[node name="Water10" parent="water" unique_id=76387983 instance=ExtResource("3_efns1")]
+position = Vector2(368, 442)
+scale = Vector2(2, 2)
+
+[node name="Water11" parent="water" unique_id=321518210 instance=ExtResource("3_efns1")]
+position = Vector2(384, 442)
+scale = Vector2(2, 2)
+
+[node name="Water12" parent="water" unique_id=1848882934 instance=ExtResource("3_efns1")]
+position = Vector2(400, 442)
+scale = Vector2(2, 2)
+
+[node name="Water13" parent="water" unique_id=1574424110 instance=ExtResource("3_efns1")]
+position = Vector2(416, 442)
+scale = Vector2(2, 2)
+
+[node name="Water14" parent="water" unique_id=25582638 instance=ExtResource("3_efns1")]
+position = Vector2(432, 442)
+scale = Vector2(2, 2)
+
+[node name="Water15" parent="water" unique_id=1964150712 instance=ExtResource("3_efns1")]
+position = Vector2(432, 442)
+scale = Vector2(2, 2)
+
+[node name="Water16" parent="water" unique_id=1338029794 instance=ExtResource("3_efns1")]
+position = Vector2(448, 442)
+scale = Vector2(2, 2)
+
+[node name="Water17" parent="water" unique_id=1996024818 instance=ExtResource("3_efns1")]
+position = Vector2(464, 442)
+scale = Vector2(2, 2)
+
+[node name="Water18" parent="water" unique_id=634329194 instance=ExtResource("3_efns1")]
+position = Vector2(480, 442)
+scale = Vector2(2, 2)
+
+[node name="Water19" parent="water" unique_id=103221765 instance=ExtResource("3_efns1")]
+position = Vector2(496, 442)
+scale = Vector2(2, 2)
+
+[node name="Water20" parent="water" unique_id=1584170437 instance=ExtResource("3_efns1")]
+position = Vector2(496, 442)
+scale = Vector2(2, 2)
+
+[node name="Water21" parent="water" unique_id=61064143 instance=ExtResource("3_efns1")]
+position = Vector2(512, 442)
+scale = Vector2(2, 2)
+
+[node name="Water22" parent="water" unique_id=1991700332 instance=ExtResource("3_efns1")]
+position = Vector2(528, 442)
+scale = Vector2(2, 2)
+
+[node name="Water23" parent="water" unique_id=1003097817 instance=ExtResource("3_efns1")]
+position = Vector2(544, 442)
+scale = Vector2(2, 2)
+
+[node name="Water24" parent="water" unique_id=245077737 instance=ExtResource("3_efns1")]
+position = Vector2(560, 442)
+scale = Vector2(2, 2)
+
+[node name="Water25" parent="water" unique_id=1711656557 instance=ExtResource("3_efns1")]
+position = Vector2(560, 442)
+scale = Vector2(2, 2)
+
+[node name="Water26" parent="water" unique_id=185503755 instance=ExtResource("3_efns1")]
+position = Vector2(576, 442)
+scale = Vector2(2, 2)
+
+[node name="Water27" parent="water" unique_id=1057574860 instance=ExtResource("3_efns1")]
+position = Vector2(592, 442)
+scale = Vector2(2, 2)
+
+[node name="Water28" parent="water" unique_id=2111176015 instance=ExtResource("3_efns1")]
+position = Vector2(608, 442)
+scale = Vector2(2, 2)
+
+[node name="Water29" parent="water" unique_id=887560338 instance=ExtResource("3_efns1")]
+position = Vector2(624, 442)
+scale = Vector2(2, 2)
+
+[node name="Water30" parent="water" unique_id=711345832 instance=ExtResource("3_efns1")]
+position = Vector2(624, 442)
+scale = Vector2(2, 2)
+
+[node name="TileMap" type="TileMap" parent="." unique_id=1152029142]
+position = Vector2(520, 450)
+scale = Vector2(2, 2)
+tile_set = SubResource("TileSet_nhro7")
+format = 2
+layer_0/tile_data = PackedInt32Array(65528, 196608, 7, 65529, 196608, 7, 65530, 196608, 7, 65531, 196608, 7, 65532, 196608, 7, 65533, 196608, 7, 65534, 196608, 7, 65535, 196608, 7, 0, 196608, 7, 1, 196608, 7, 2, 196608, 7, 3, 196608, 7, 65527, 196608, 7)
