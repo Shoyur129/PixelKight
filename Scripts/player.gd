@@ -6,10 +6,24 @@ var can_slash: bool = true
 @export var slash_return_time: float = 0.5
 
 @onready var animated_sprite = $AnimatedSprite2D
-@onready var sword = $Sword
+var _spawn_position: Vector2
 
-const SPEED = 175.0
-const JUMP_VELOCITY = -250.0
+const SPEED = 115.0
+const JUMP_VELOCITY = -175.0
+
+
+func _ready() -> void:
+	_spawn_position = global_position
+	if not is_in_group("Player"):
+		add_to_group("Player")
+
+
+func respawn() -> void:
+	global_position = _spawn_position
+	velocity = Vector2.ZERO
+	set_physics_process(true)
+	if animated_sprite and animated_sprite.sprite_frames and animated_sprite.sprite_frames.has_animation("Idle"):
+		animated_sprite.play("Idle")
 
 
 func _physics_process(delta: float) -> void:
@@ -26,13 +40,13 @@ func _physics_process(delta: float) -> void:
 	# Flip the sprite based on the direction of movement and the sword slash direction
 	if direction > 0:
 		animated_sprite.flip_h = false
-		sword.position.x = abs(sword.position.x)
 	elif direction < 0:
 		animated_sprite.flip_h = true
-		sword.position.x = -abs(sword.position.x)
 
-	# Play animations
-	if direction == 0:
+	# Play jump while airborne, otherwise use idle/run on ground.
+	if not is_on_floor():
+		animated_sprite.play("Jump")
+	elif direction == 0:
 		animated_sprite.play("Idle")
 	else:
 		animated_sprite.play("Run")
