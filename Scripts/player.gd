@@ -9,7 +9,7 @@ var can_slash: bool = true
 var _spawn_position: Vector2
 
 const SPEED = 115.0
-const JUMP_VELOCITY = -175.0
+const JUMP_VELOCITY = -185.0
 
 
 func _ready() -> void:
