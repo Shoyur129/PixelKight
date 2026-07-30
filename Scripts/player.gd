@@ -25,6 +25,16 @@ func respawn() -> void:
 	if animated_sprite and animated_sprite.sprite_frames and animated_sprite.sprite_frames.has_animation("Idle"):
 		animated_sprite.play("Idle")
 
+	var game_manager = get_tree().current_scene.get_node_or_null("GameManager")
+	if game_manager and game_manager.has_method("reset_score"):
+		game_manager.reset_score()
+
+	var coins = get_tree().current_scene.get_node_or_null("Coins")
+	if coins:
+		for coin in coins.get_children():
+			if coin is Node and coin.has_method("reset_coin"):
+				coin.reset_coin()
+
 
 func _physics_process(delta: float) -> void:
 	# Add the gravity.

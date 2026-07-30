@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://8jqfuivrmokr"]
+
+[ext_resource type="FontFile" uid="uid://b6u1dianqb7ur" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="1_hnwbn"]
+[ext_resource type="Texture2D" uid="uid://chkjjaavpq1dh" path="res://assets/brackeys_platformer_assets/sprites/coin.png" id="2_qcrpo"]
+
+[node name="Score" type="Control" unique_id=1700342475]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="." unique_id=792396377]
+layout_mode = 0
+offset_left = 24.0
+offset_top = -16.0
+offset_right = 64.0
+offset_bottom = 16.0
+theme_override_fonts/font = ExtResource("1_hnwbn")
+theme_override_font_sizes/font_size = 32
+text = "0"
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=100139967]
+scale = Vector2(2.5, 2.5)
+texture = ExtResource("2_qcrpo")
+region_enabled = true
+region_rect = Rect2(0, 0, 16, 16)
