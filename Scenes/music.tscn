@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://dpudjxqi7gotq"]
+
+[ext_resource type="AudioStream" uid="uid://dkkq1l7r6cnv4" path="res://assets/brackeys_platformer_assets/music/a_slow_day.mp3" id="1_fbmny"]
+
+[node name="Music" type="AudioStreamPlayer2D" unique_id=1386956853]
+stream = ExtResource("1_fbmny")
+autoplay = true
+bus = &"Music"
