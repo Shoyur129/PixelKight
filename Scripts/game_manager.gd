@@ -20,5 +20,8 @@ func add_score() -> void:
 	update_score_display()
 
 func reset_score() -> void:
-	Gamestate.score = 0
+	var scene_path := ""
+	if get_tree().current_scene:
+		scene_path = get_tree().current_scene.scene_file_path
+	Gamestate.score = Gamestate.get_respawn_score_for_scene(scene_path)
 	update_score_display()

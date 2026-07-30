@@ -11,6 +11,7 @@ func _on_body_entered(body: Node2D) -> void:
 		return
 
 	if current_scene.scene_file_path == "res://Scenes/level_1.tscn":
+		Gamestate.store_level_2_checkpoint()
 		get_tree().change_scene_to_file("res://Scenes/level_2.tscn")
 	elif current_scene.scene_file_path == "res://Scenes/level_2.tscn":
 		get_tree().change_scene_to_file("res://Scenes/end.tscn")
