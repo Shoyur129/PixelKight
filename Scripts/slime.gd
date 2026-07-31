@@ -8,6 +8,7 @@ const SPEED = 60.0
 
 var direction = 1
 
+#control the slime's movement and animation
 func _process(delta):
 	if ray_cast_right.is_colliding():
 		direction = -1 #flip direction to left if colliding with right raycast

@@ -26,10 +26,12 @@ func respawn() -> void:
 		animated_sprite.play("Idle")
 
 	var game_manager = get_tree().current_scene.get_node_or_null("GameManager")
+	# Reset the score when the player respawns
 	if game_manager and game_manager.has_method("reset_score"):
 		game_manager.reset_score()
-
+	
 	var coins = get_tree().current_scene.get_node_or_null("Coins")
+	# Reset all coins when the player respawns
 	if coins:
 		for coin in coins.get_children():
 			if coin is Node and coin.has_method("reset_coin"):

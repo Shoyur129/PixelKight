@@ -12,6 +12,7 @@ func _ready() -> void:
 func _on_body_entered(body: Node2D) -> void:
 	if _collected:
 		return
+	# Check if the body is the player
 	if body is Node2D and body.is_in_group("Player"):
 		_collected = true
 		visible = false
@@ -19,12 +20,14 @@ func _on_body_entered(body: Node2D) -> void:
 		if animation_player and animation_player.has_animation("pickup"):
 			animation_player.play("pickup")
 
+		# Update the score in the GameManager if it exists, otherwise update Gamestate.score directly
 		var game_manager = get_tree().current_scene.get_node_or_null("GameManager")
 		if game_manager and game_manager.has_method("add_score"):
 			game_manager.add_score()
 		else:
 			Gamestate.score += 1
 
+# Reset the coin's state when the player respawns
 func reset_coin() -> void:
 	_collected = false
 	visible = true
