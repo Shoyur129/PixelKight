@@ -3078,7 +3078,7 @@ z_index = 3
 position = Vector2(1152, 588)
 
 [node name="Player" parent="." unique_id=1341055315 instance=ExtResource("13_bl0du")]
-position = Vector2(49, 501)
+position = Vector2(47, 500)
 metadata/_edit_group_ = true
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1886716323]

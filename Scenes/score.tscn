@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://8jqfuivrmokr"]
 
-[ext_resource type="FontFile" uid="uid://b6u1dianqb7ur" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="1_hnwbn"]
+[ext_resource type="FontFile" uid="uid://dtl787trj3nym" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8.ttf" id="1_hnwbn"]
 [ext_resource type="Texture2D" uid="uid://chkjjaavpq1dh" path="res://assets/brackeys_platformer_assets/sprites/coin.png" id="2_qcrpo"]
 
 [node name="Score" type="Control" unique_id=1700342475]
@@ -15,6 +15,8 @@ offset_left = 24.0
 offset_top = -16.0
 offset_right = 64.0
 offset_bottom = 16.0
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 7
 theme_override_fonts/font = ExtResource("1_hnwbn")
 theme_override_font_sizes/font_size = 32
 text = "0"
