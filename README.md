@@ -13,3 +13,5 @@ Asset Links:
 
   Four Seasons Sprites:
 	https://kevins-moms-house.itch.io/four-seasons-platformer-sprites
+
+Exectuable file is included, run "Pixel Knight.exe" to play game
