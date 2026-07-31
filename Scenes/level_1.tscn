@@ -2455,7 +2455,7 @@ tile_map_data = PackedByteArray("AAD//ygABgAAAAcAAAD//ykABgAAAAcAAAAAACgABgAAAAc
 tile_set = SubResource("TileSet_wrinw")
 
 [node name="Player" parent="." unique_id=1341055315 instance=ExtResource("11_af3po")]
-position = Vector2(49, 561)
+position = Vector2(48, 564)
 metadata/_edit_group_ = true
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=2039340692]

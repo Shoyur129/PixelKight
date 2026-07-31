@@ -2,10 +2,10 @@
 
 [ext_resource type="Script" uid="uid://bx7wcqxoh1x7" path="res://Scripts/main_menu.gd" id="1_1ehe0"]
 [ext_resource type="FontFile" uid="uid://b6u1dianqb7ur" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="1_28flt"]
-[ext_resource type="Texture2D" uid="uid://c226h55j0rups" path="res://assets/Screenshot 2026-07-30 133649.png" id="1_48xlc"]
+[ext_resource type="Texture2D" uid="uid://b4idqrgojirt1" path="res://assets/Screenshot 2026-07-30 191027.png" id="2_1ehe0"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_1ehe0"]
-texture = ExtResource("1_48xlc")
+texture = ExtResource("2_1ehe0")
 modulate_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_48xlc"]
